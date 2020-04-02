@@ -1,2 +1,3 @@
-# First one
- Repositório do curso
+# First One
+ Repositório do curso de Git e GitHub
+ 
